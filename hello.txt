@@ -1,5 +1,8 @@
-print('hello world')
-print('hi everybody')
-print('welcome')
-print(' dear friend')
-print('glad to see you')
+<<<<<<< HEAD
+print('hello world');
+print('hi everybody');
+print('welcome');
+print(' dear friend');
+print('glad to see you');
+
+>>>>>>> master
